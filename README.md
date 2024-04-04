@@ -4,7 +4,7 @@
 This project focuses on analyzing the World Happiness Report 2019 dataset to gain insights into the factors influencing happiness scores across different countries. Through exploratory data analysis, regression analysis, and cluster analysis, we aim to understand the relationship between socio-economic indicators and happiness levels.
 
 ## Data Source:
-The primary data source for this analysis is the World Happiness Report 2019, sourced by CareerFoundry from the following Kaggle link: [World Happiness Report 2019 - Kaggle](https://www.kaggle.com/unsdsn/world-happiness). The dataset includes country-level data on various factors such as GDP per capita, social support, life expectancy, freedom, generosity, and perceptions of corruption, along with corresponding happiness scores.
+The primary data source for this analysis is the World Happiness Report 2019, sourced by CareerFoundry from [World Happiness Report - Kaggle](https://www.kaggle.com/unsdsn/world-happiness). The dataset includes country-level data on various factors such as GDP per capita, social support, life expectancy, freedom, generosity, and perceptions of corruption, along with corresponding happiness scores.
 
 ## Research Questions:
 1. What are the key socio-economic factors associated with higher happiness scores?
